@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/idanr98/idan-rakovsky-corona/issues"
   },
-  "homepage": "https://github.com/idanr98/idan-rakovsky-corona#readme"
+  "homepage": "https://github.com/idanr98/idan-rakovsky-corona#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
