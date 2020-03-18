@@ -1,0 +1,19 @@
+{
+  "name": "idan-rakovsky-corona",
+  "version": "1.0.0",
+  "description": "my corona app",
+  "main": "corona-service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idanr98/idan-rakovsky-corona.git"
+  },
+  "author": "idanr98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idanr98/idan-rakovsky-corona/issues"
+  },
+  "homepage": "https://github.com/idanr98/idan-rakovsky-corona#readme"
+}
