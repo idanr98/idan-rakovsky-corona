@@ -1,1 +1,1 @@
-# idan-rakovsky-corona
+# try fot idan
